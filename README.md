@@ -15,11 +15,8 @@ Una biblioteca dinámica es aquella que se carga a la hora de arrancar un progra
 #### Actividad de biblioteca estatica y dinamica
 En la practica la maestra nos compartio un PDF por teams donde venian las instrcuciones de lo que deberiamos hacer, para ver como funcionanban estas bibliotecas. y que pasaba si solo se compartia el archivo .exe con otro compañero.<br>
 con la <strong>biblioteca estatica</strong> esto fue lo que ocurrio al ejecutar el .exe.<br>
-(![biblioteca estatica](https://user-images.githubusercontent.com/113700163/190680485-773bac7a-17c0-400c-8eb6-77a1e524dcd1.png)<br>
+(![biblioteca estatica](https://user-images.githubusercontent.com/113700163/190680485-773bac7a-17c0-400c-8eb6-77a1e524dcd1.png))<br>
 con la <strong>biblioteca dinamica </strong> comparti el archivo con mi compañero Juan y el compartio su archivo conmigo y esto fue lo que me salio al ejecutar el archivo.<br>
-(![biblioteca dinamica juan](https://user-images.githubusercontent.com/113700163/190681078-bd732e24-0567-4360-a5a6-a32e61089762.png)
+(![biblioteca dinamica juan](https://user-images.githubusercontent.com/113700163/190681078-bd732e24-0567-4360-a5a6-a32e61089762.png))<br>
 esto es lo que aparecio al ejecutar el mio en mi Laptop.<br>
-(![biblioteca dinamica](https://user-images.githubusercontent.com/113700163/190681324-253d8dae-277b-4952-a057-99a030dbd9d8.png)
-
-
-)
+(![biblioteca dinamica](https://user-images.githubusercontent.com/113700163/190681324-253d8dae-277b-4952-a057-99a030dbd9d8.png))<br>
