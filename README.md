@@ -20,3 +20,6 @@ con la <strong>biblioteca dinamica </strong> comparti el archivo con mi compañe
 ![biblioteca dinamica juan](https://user-images.githubusercontent.com/113700163/190681078-bd732e24-0567-4360-a5a6-a32e61089762.png)<br>
 esto es lo que aparecio al ejecutar el mio en mi Laptop.<br>
 ![biblioteca dinamica](https://user-images.githubusercontent.com/113700163/190681324-253d8dae-277b-4952-a057-99a030dbd9d8.png)<br>
+
+### Programamos en phyton
+la mestra nos pidio que ingresaramos al canal de la [facultad de matematicas de la uv](https://www.youtube.com/channel/UC6WEQBcRCG8ZYA0qkV2hi4g)<br>
