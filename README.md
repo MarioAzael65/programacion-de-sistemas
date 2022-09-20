@@ -46,8 +46,11 @@ esto es lo que aparecio al ejecutar el mio en mi Laptop.<br>
 
 ![biblioteca dinamica](https://user-images.githubusercontent.com/113700163/190681324-253d8dae-277b-4952-a057-99a030dbd9d8.png)<br>
 
-como pudimos observar a la hora de ejecutar el .exe de mi compañero, salio en la primera linea su nombre y en la segunda mi nombre y esto se debe porque a la hora de compilar le estamos diciendo al compilador que el archivo foo.ccp lo convierta como biblioteca compartida con PIC y y se guarde en el archivo foo.dll.  <br>
+como pudimos observar a la hora de ejecutar el .exe de mi compañero, salio en la primera linea su nombre y en la segunda mi nombre y esto se debe porque a la hora de compilar le estamos diciendo al compilador que el archivo foo.ccp lo convierta como biblioteca compartida con PIC y y se guarde en el archivo foo.dll.<br>
+
+aqui les comparto los archivos que se crearon [carpetas_Compartidas_y_Estaticas.zip](https://github.com/MarioAzael65/programacion-de-sistemas/files/9604004/carpetas_Compartidas_y_Estaticas.zip)<br>
 
 ### Programamos en phyton
 
-la mestra nos pidio que ingresaramos al canal de la [facultad de matematicas de la uv](https://www.youtube.com/channel/UC6WEQBcRCG8ZYA0qkV2hi4g)<br>
+la mestra nos pidio que ingresaramos al canal de la [facultad de matematicas de la uv](https://www.youtube.com/channel/UC6WEQBcRCG8ZYA0qkV2hi4g) donde venian varios vides donde nos mostraba como usar python con algunos ejemplos y hacia de uso la pagina [Clandestina-hds](https://clandestina-hds.com/cursoPyQT5/index.html)<br>
+
