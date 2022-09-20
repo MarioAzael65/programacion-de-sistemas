@@ -52,5 +52,6 @@ aqui les comparto los archivos que se crearon [carpetas_Compartidas_y_Estaticas.
 
 ### Programamos en phyton
 
-la mestra nos pidio que ingresaramos al canal de la [facultad de matematicas de la uv](https://www.youtube.com/channel/UC6WEQBcRCG8ZYA0qkV2hi4g) donde venian varios vides donde nos mostraba como usar python con algunos ejemplos y hacia de uso la pagina [Clandestina-hds](https://clandestina-hds.com/cursoPyQT5/index.html)<br>
+la mestra nos pidio que ingresaramos al canal de la [facultad de matematicas de la uv](https://www.youtube.com/channel/UC6WEQBcRCG8ZYA0qkV2hi4g) donde venian varios videos donde nos mostraba como usar python con algunos ejemplos y hacia de uso la pagina [Clandestina-hds.](https://clandestina-hds.com/cursoPyQT5/index.html)<br>
 
+aqui tengo todos los archivos que realice observando los videos, tengo archivos de mas, ya que unos los realizaba en la facultad pero por problemas de la red no podia ver los videos y solo me iba guiando con la pagina clandestina-hds y unos los realizaba para observar cual era su funcionamiento. [Python.zip](https://github.com/MarioAzael65/programacion-de-sistemas/files/9604061/Python.zip)
